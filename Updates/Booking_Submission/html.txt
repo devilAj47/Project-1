@@ -1,0 +1,17 @@
+<div class="booking_submit">
+                <div class="booking_credentials">
+                    <div class="booking_name">
+                        <div>First Name</div>
+                        <div class="booking_name_box"></div>
+                    </div>
+                    <div class="booking_email">
+                        <div>Email*</div>
+                        <div class="booking_email_box"></div>
+                    </div>
+                </div>
+                <div class="booking_message">
+                    <div>Leave us a Message...</div>
+                    <div class="booking_message_box"></div>
+                </div>
+                <div class="booking_submit_button">Submit</div>
+            </div>
